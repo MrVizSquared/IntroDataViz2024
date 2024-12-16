@@ -1,23 +1,50 @@
 # IntroDataViz2024
 
-<<<<<<< HEAD
+## Introduction
+
 Support material for Data Visualization Course 2024
-=======
+
 December 2024
->>>>>>> b1bb3e08084a8e41434aa7e41a0b1e02a8b587a7
 
 Support material for Data Visualization Course 2024
 
-<<<<<<< HEAD
 A jupyter notebook is available as a starting point in the code folder.
 
 ------------------------
 ## Exercises
 
-![Pie Chart](https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_PieChart.png?raw=true)
+### Bar Chart
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_3dBarChart.png" width="200" />
+
+[Data](./Data/Exercise_BarChart3D.xlsx)
 
 
-## 
+### Schematic
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_3dSchematic.png" width="200" />
+
+[Data](./Data/Exercise_3dSchematic.xlsx)
+
+### Histograms
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_Histograms.png" width="200" />
+
+[Data](./Data/Exercise_Histograms.xlsx)
+
+### Piechart
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_PieChart.png" width="200" />
+
+[Data](./Data/Exercise_PieChart.xlsx)
+
+
+### Spectra
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_Spectra.png" width="200" />
+
+[Data](./Data/Exercise_Spectra.xlsx)
+
+### Table
+<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_Table.png" width="200" />
+
+[Data](./Data/Exercise_Table.xlsx)
+
 
 -----------------------------
 # Resources
@@ -35,6 +62,8 @@ A jupyter notebook is available as a starting point in the code folder.
 [Data Viz Catalogue](https://datavizcatalogue.com/)
 
 [FT Visual Vocabulary](https://www.ft.com/content/c7bb24c9-964d-479f-ba24-03a2b2df6e85)
+
+[Comic Sans Criminal](https://comicsanscriminal.com/)
 
 ### Newsletters & Blogs
 
@@ -73,9 +102,3 @@ In memory of a great man and the numbers he loved.
 
 Saturday Night Live - Papyrus
 [Link](https://www.youtube.com/watch?v=jVhlJNJopOQ)
-=======
-Data required for the exercises can be found in data folder.
-
-A jupyter notebook is available as a starting point for the exercises in the code folder.
->>>>>>> b1bb3e08084a8e41434aa7e41a0b1e02a8b587a7
-
