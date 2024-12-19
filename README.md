@@ -13,11 +13,10 @@ A jupyter notebook is available as a starting point in the code folder.
 ------------------------
 ## Exercises
 
-### Bar Chart
-<img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_3dBarChart.png" width="200" />
-
+### 3D Bar Chart
+<img src="
+https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Data/Exercise_3dBarChart.png" width="200" />
 [Data](./Data/Exercise_BarChart3D.xlsx)
-
 
 ### Schematic
 <img src="https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Exercise_3dSchematic.png" width="200" />
