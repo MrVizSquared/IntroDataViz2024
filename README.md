@@ -16,7 +16,7 @@ A jupyter notebook is available as a starting point in the code folder.
 ### 3D Bar Chart
 
 <img src="
-https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Data/Exercise_3dBarChart.png" width="200" />
+https://github.com/MrVizSquared/IntroDataViz2024/blob/main/Data/Exercise_3dBarChart.png?raw=true" width="200" />
 
 [Data](./Data/Exercise_BarChart3D.xlsx)
 
