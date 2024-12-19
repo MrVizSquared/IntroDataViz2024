@@ -1,4 +1,4 @@
-# IntroDataViz2024
+# Foundations of Data Vizualization for Scientists 2024
 
 ## Introduction
 
