@@ -45,6 +45,14 @@ A jupyter notebook is available as a starting point in the code folder.
 
 [XLSX](./Data/Exercise_PieChart.xlsx)
 
+### 3D Piechart
+
+![Exercise_3dPieChart](https://github.com/user-attachments/assets/d0b70228-90f2-49d5-82f9-c6e84a421baa)
+
+[CSV](./Data/Exercise_3dPieChart.csv)
+
+[XLSX](./Data/Exercise_3dPieChart.xlsx)
+
 -------------------
 ### Spectra
 
